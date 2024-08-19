@@ -78,7 +78,3 @@ describe("Part 4: Garage class", () => {
 
   });
 });
-
-// it('check an array', () => {
-//   expect([1,2,3]).toEqual([1,2]);
-// });
